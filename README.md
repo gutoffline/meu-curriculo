@@ -10,4 +10,5 @@
 ### Cursos livres
 - Excel, Senac Americana [24h]
 - Excel Avançado, Senac Americana [39h]
+- Lógica de programação, Senac Americana [40h]
 
