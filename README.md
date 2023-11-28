@@ -28,5 +28,10 @@
 |Photoshop| ⭐⭐⭐
 
 ### 📚 Conhecimentos Extras
-- Arduino
+- Arduino - [Conheça meus projeto]()
 - C++
+- Markdown
+
+### 🔍 Projetos
+- [Site de lavanderia]()
+- [APP mecânicos]()
